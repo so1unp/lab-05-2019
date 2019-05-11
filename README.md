@@ -1,4 +1,4 @@
-# Laboratorio 5 - Comunicación entre procesos y sincronización
+# Laboratorio 5 - Comunicación entre procesos
 
 Responder las preguntas en el archivo `respuestas.txt`.
 
