@@ -1,5 +1,7 @@
 # Laboratorio 5 - Comunicación entre procesos
 
+**Ejercicio obligatorio**: 3.
+
 Responder las preguntas en el archivo `respuestas.txt`.
 
 ## Ejercicio 1
